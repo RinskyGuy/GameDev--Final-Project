@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trash
+  - Bullet
+  - GameOver
+  - Player-hp-bar
+  - Enemy1
+  - Enemy2
+  - Ally
+  - Ally-hp-bar
+  - Enemy1-hp-bar
+  - Enemy2-hp-bar
+  - hp-box
+  - GrenadeNumber
+  - grenade-spawn
+  - music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

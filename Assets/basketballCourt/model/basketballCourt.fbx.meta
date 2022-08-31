@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: 5c62539a401d25a43b4981c87a43a9f7
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: basketball
+    100002: //RootNode
+    100004: basketballHoopA
+    100006: basketballHoopB
+    100008: bench_L
+    100010: bench_R
+    100012: fence_gp
+    100014: fence_gp_B
+    100016: fence_gp_F
+    100018: fence_gp_L
+    100020: fence_gp_R
+    100022: ground
+    100024: net_B
+    100026: net_F
+    100028: net_L
+    100030: net_R
+    100032: stick_B
+    100034: stick_F
+    100036: stick_L
+    100038: stick_R
+    400000: basketball
+    400002: //RootNode
+    400004: basketballHoopA
+    400006: basketballHoopB
+    400008: bench_L
+    400010: bench_R
+    400012: fence_gp
+    400014: fence_gp_B
+    400016: fence_gp_F
+    400018: fence_gp_L
+    400020: fence_gp_R
+    400022: ground
+    400024: net_B
+    400026: net_F
+    400028: net_L
+    400030: net_R
+    400032: stick_B
+    400034: stick_F
+    400036: stick_L
+    400038: stick_R
+    2100000: groundMT
+    2100002: ropeMT
+    2100004: plasticMT
+    2100006: paintMT
+    2100008: steelMT
+    2100010: basketballMT
+    2300000: basketball
+    2300002: basketballHoopA
+    2300004: basketballHoopB
+    2300006: bench_L
+    2300008: bench_R
+    2300010: ground
+    2300012: net_B
+    2300014: net_F
+    2300016: net_L
+    2300018: net_R
+    2300020: stick_B
+    2300022: stick_F
+    2300024: stick_L
+    2300026: stick_R
+    3300000: basketball
+    3300002: basketballHoopA
+    3300004: basketballHoopB
+    3300006: bench_L
+    3300008: bench_R
+    3300010: ground
+    3300012: net_B
+    3300014: net_F
+    3300016: net_L
+    3300018: net_R
+    3300020: stick_B
+    3300022: stick_F
+    3300024: stick_L
+    3300026: stick_R
+    4300000: ground
+    4300002: basketballHoopA
+    4300004: basketballHoopB
+    4300006: bench_L
+    4300008: bench_R
+    4300010: net_F
+    4300012: stick_F
+    4300014: net_B
+    4300016: stick_B
+    4300018: stick_L
+    4300020: net_L
+    4300022: stick_R
+    4300024: net_R
+    4300026: basketball
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: basketballCourt_col.1001
+    second: {fileID: 2800000, guid: 6d3e16606c12ecf40a531eb00b6654bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: basketballCourt_col.1002
+    second: {fileID: 2800000, guid: 3ff66a573ccd22647a359b7085bcf846, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: basketballCourt_nrml.1001
+    second: {fileID: 2800000, guid: d23f53c75c03fbb448a9cd780f559851, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: basketballCourt_nrml.1002
+    second: {fileID: 2800000, guid: 813a54bde836a014dbff66ec4298634b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: basketballCourt_rough.1001
+    second: {fileID: 2800000, guid: f3688158f9a729a4eb78d2a61e3b690e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: basketballCourt_rough.1002
+    second: {fileID: 2800000, guid: 37f33a5253bde8b4b8d3df6501be6b79, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: basketball_col
+    second: {fileID: 2800000, guid: db02847e250aeee42bad14e735424681, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: basketball_nrml
+    second: {fileID: 2800000, guid: 764bfdaa0fc7ad2428aeaf343b92e54e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: basketball_rough
+    second: {fileID: 2800000, guid: 3dcb48d8dd59d12408f545b9d597cd4e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rope_col.1001
+    second: {fileID: 2800000, guid: 2106659409cb3924fab75c9ad6e7b9f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rope_nrml
+    second: {fileID: 2800000, guid: 6e8cd469aeb201c4590e3fad46990344, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
