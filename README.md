@@ -16,7 +16,7 @@
 	- Enemies are happy/sad depending if they win/lose
 	
 # Photos:
-	![A grenade in the map that you or any npc can obtain it and throw it.](https://github.com/RinskyGuy/GameDev--Final-Project/blob/main/Images/Grenade.PNG)
+	![A grenade in the map that you or any npc can obtain it and throw it](https://github.com/RinskyGuy/GameDev--Final-Project/blob/main/Images/Grenade.PNG)
 	![A health-box in the map that you or any npc can obtain it.](https://github.com/RinskyGuy/GameDev--Final-Project/blob/main/Images/HealthBox.PNG)
 	![Shooting at the enemy and reducing his life points.](https://github.com/RinskyGuy/GameDev--Final-Project/blob/main/Images/ShootAtEnemy.PNG)
 	![View from pond and muzzle flash animation.](https://github.com/RinskyGuy/GameDev--Final-Project/blob/main/Images/ShootFromPond.PNG)
