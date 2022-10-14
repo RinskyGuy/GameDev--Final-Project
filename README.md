@@ -1,4 +1,4 @@
-Game Development project:
+# GameDev--Final-Project
 	This game was built as a final project for the game development course.
 	This game was built with Unity and C# for the scripts.
 	
@@ -15,4 +15,10 @@ Game Development project:
 	- Animations
 	- Enemies are happy/sad depending if they win/lose
 	
-	photos:
+# Photos:
+	![A grenade in the map that you or any npc can obtain it and throw it.](/Images/Grenade.PNG)
+	![A health-box in the map that you or any npc can obtain it and throw it.](/Images/HealthBox.PNG)
+	![Shooting at the enemy and reducing his life points.](/Images/ShootAtEnemy.PNG)
+	![View from pond and muzzle flash animation.](/Images/ShootFromPond.PNG)
+	![View from the streets.](/Images/View1.PNG)
+	![View from the above.](/Images/View2.PNG)
